@@ -1,0 +1,6 @@
+{
+	// exposed jsbeautifier options
+	"indent_with_tabs": true,
+	"keep_array_indentation": true,
+	"keep_function_indentation": true
+}
