@@ -1,4 +1,5 @@
 英文文档：https://github.com/HookyQR/VSCodeBeautify/blob/master/Settings.md
+
 常用描述如下
 
 ```javascript
