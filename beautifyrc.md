@@ -1,3 +1,4 @@
+```javascript
 {
     "indent_size": 4,      //缩进大小，默认4
     "indent_char": " ",    //缩进字符，默认" "
@@ -20,3 +21,4 @@
     "wrap_attributes_indent_size": 4, //html属性标签新行缩进字符数，默认为"indent_size"4
     "end_with_newline": false         //在文件结尾保证有换行，默认false
 }
+```
